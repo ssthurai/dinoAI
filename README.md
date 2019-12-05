@@ -1,7 +1,5 @@
 # dinoAI
-CNN trained to play Google's dinosaur run game.
-
-*This code is in desperate need of cleanup, will when I have time.*
+This is a simple game that learns how we play the dinosar game in Google chrome and then play by itself.
 
 ## FILE DESCRIPTION
 
@@ -15,4 +13,4 @@ Trains CNN on captured data.
 
 ### play_game.py
 
-Opens and plays game with trained network. Ensure wifi is off.
+Opens and plays game with trained network (Note that you can play the Dinosaur game when the wifi is off).

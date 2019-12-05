@@ -1,4 +1,5 @@
-# dinoAI
+# Machine playing Chrome Dinosar Game (trained with Convolutional Neural Network) 
+Original name of the project: "dinoAI"
 This is a simple game that learns how we play the dinosar game in Google chrome and then play by itself.
 
 ## FILE DESCRIPTION
